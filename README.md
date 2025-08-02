@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+cozy+coder+cottage;Sip+tea+and+browse+code;Don’t+mind+the+bugs+—+they're+mostly+friendly" alt="Typing SVG" />
+  <img src="https://www.pinterest.com/ideas/pixel-gif-studying/934650481205/" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/hGlNYtd.gif" width="250" alt="Cozy tea gif" />
+  <img src="[https://i.imgur.com/hGlNYtd.gif](https://www.deviantart.com/pixeljeff/art/S4U-Citypunk-2011-and-Love-Punch-1153064120)" width="250" alt="Cozy tea gif" />
 </p>
 
 <p align="center">
