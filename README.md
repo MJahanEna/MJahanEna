@@ -23,7 +23,6 @@ I'm a Computer Science student passionate about building impactful, user-friendl
 > *Co-Developer*  
 A PHP & MySQL-based clothing rental platform connecting lessors and lessees. I implemented secure session management and dynamic UI elements.
 
-🔗 [GitHub Repo](https://github.com/yourusername/rent-n-repeat)
 
 ---
 
@@ -31,7 +30,6 @@ A PHP & MySQL-based clothing rental platform connecting lessors and lessees. I i
 > *One of 5 Developers*  
 Created a Unity-based educational 2D game. My role focused on gameplay logic, rotation mechanics, and UI scripting.
 
-🔗 [GitHub Repo](https://github.com/yourusername/shawns-academy)
 
 ---
 
@@ -39,7 +37,6 @@ Created a Unity-based educational 2D game. My role focused on gameplay logic, ro
 > *Team of 3 | Web Version*  
 A mobile banking app prototype built using JavaFX and SceneBuilder, featuring a clean interface for transactions, authentication, and dashboard functions.
 
-🔗 [GitHub Repo](https://github.com/yourusername/bankify)
 
 ---
 
