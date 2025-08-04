@@ -1,71 +1,55 @@
+<!-- GitHub README: Professional yet Modern -->
+
+<h1 align="center">Hi, I'm Ena Jahan 👋</h1>
 <p align="center">
-  <img src="https://www.pinterest.com/ideas/pixel-gif-studying/934650481205/" alt="Typing SVG" />
+  <em>Computer Science Student | Developer | Tech Explorer</em>
 </p>
 
 ---
 
-## ✨ Hi, I'm Ena!
-🌿 I’m a Computer Science student who codes, creates, and daydreams in between.
+## 🧑‍💻 About Me
 
-![Mood](https://img.shields.io/badge/mood-cozy%20and%20chaotic-lightgreen?style=flat-square)
-![Lo-fi Vibes](https://img.shields.io/badge/music-lofi%20only-9cf?style=flat-square)
-![Code Style](https://img.shields.io/badge/style-magical%20realism-blueviolet?style=flat-square)
-![Valorant](https://img.shields.io/badge/aim-questionable-red?style=flat-square)
+I'm a Computer Science student passionate about building impactful, user-friendly applications. I have experience working in collaborative teams on web-based platforms, mobile-first apps, and 2D game development.
 
----
-
-## 🌌 What I’m into right now
-- 🎮 Making a 2D game engine with friends (and trying not to get bitten by bugs lol)
-- 🧙‍♀️ Designing a clothing rental site for people who love magic, mystery, and fashion
-- 🎧 Coding to lo-fi beats and deep thoughts
+- 🎓 Currently pursuing BSc in Computer Science  
+- 🔧 Interested in Full Stack Development, UI/UX, and Game Development  
+- 🤝 Always eager to collaborate and grow through meaningful work
 
 ---
 
-## 📚 Things I Love
-- ⚡ *Harry Potter* universe (especially *Prisoner of Azkaban*)
-- 🐱 Manhwas, Mangas, Manhuas, Animes, Fanfics (Dramione ꨄ︎), & emotionally devastating drama moments
-- 🕯️ Dark academia aesthetics and philosophical quotes
-- 🎮 *Valorant* (Don't ask me about my aim bruh)
+## 💼 Projects
+
+### 🔹 Rent N Repeat
+> *Co-Developer*  
+A PHP & MySQL-based clothing rental platform connecting lessors and lessees. I implemented secure session management and dynamic UI elements.
+
+🔗 [GitHub Repo](https://github.com/yourusername/rent-n-repeat)
 
 ---
 
-## 🔧 Tech Arsenal
+### 🔹 Shawn’s Academy (2D Game in Unity)
+> *One of 5 Developers*  
+Created a Unity-based educational 2D game. My role focused on gameplay logic, rotation mechanics, and UI scripting.
 
-| 🧰 Languages         | 🪄 Tools & Frameworks       |
-|----------------------|------------------------------|
-| PHP, MySQL, HTML/CSS | Unity, JavaFX, Java, C++     |
-| JavaScript (growing) | Git, VS Code, XAMPP          |
-
----
-
-## 💭 Favorite Quote
-
-> *“Who is black, who is white, who decides that?”* – **Lan Zhan**
+🔗 [GitHub Repo](https://github.com/yourusername/shawns-academy)
 
 ---
 
-<details>
-  <summary>🗝️ Secret Compartment</summary>
+### 🔹 Bankify
+> *Team of 3 | Web Version*  
+A mobile banking app prototype built using JavaFX and SceneBuilder, featuring a clean interface for transactions, authentication, and dashboard functions.
 
-  🕯️ When code works on the first try,  
-  I pretend it’s because the universe whispered, “You’re amazing.”  
-  If it doesn’t, I light a candle (actually crash out), breathe deep, and try again.
-
-</details>
+🔗 [GitHub Repo](https://github.com/yourusername/bankify)
 
 ---
 
-## 💌 Let’s Connect
+## 🧠 Skills
 
-📫 **Email**: mjahanena1@gmail.com  
-🌱 Always learning, sometimes growing, mostly wondering.
-
----
-
-<p align="center">
-  <img src="[https://i.imgur.com/hGlNYtd.gif](https://www.deviantart.com/pixeljeff/art/S4U-Citypunk-2011-and-Love-Punch-1153064120)" width="250" alt="Cozy tea gif" />
-</p>
-
-<p align="center">
-  <i>Thanks for visiting the cottage 🪴<br/>Leave a bug or a blessing before you go.</i>
-</p>
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-009688?style=for-the-badge&logoColor=white)
+![HTML5](https://img)
