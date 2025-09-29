@@ -16,7 +16,7 @@
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| **🔗 Rent-N-Repeat** | An elegant platform for **renting high-end fashion**. | `PHP` `MySQL` `HTML/CSS` `JavaScript` | <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" /> |
+| **🔗 Rent-N-Repeat** | An elegant platform for **renting high-end fashion**. | `PHP` `MySQL` `HTML/CSS` `JavaScript` | <img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" /> |
 | **🎮 Shawn's Academy** | A **2D educational game** built with **Unity**. | Unity, C# | <img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" /> |
 | **🏦 Bankify** | A website-based **mobile banking app simulation**. | `JavaFX` `SceneBuilder` | <img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" /> |
 
@@ -29,7 +29,7 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgM1qG87v2j2x1Uo1L/giphy.gif" width="200" alt="Animated GIF" />
+  <img src="https://raw.githubusercontent.com/MJahanEna/MJahanEna/main/assets/github_header.png" alt="Moshraf Jahan Ena - Full-Stack & Game Developer" />
 </div>
 
 - **CS undergrad** passionate about full-stack development & digital experiences.
