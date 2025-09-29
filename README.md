@@ -29,7 +29,7 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MJahanEna/MJahanEna/main/assets/github_header.png" alt="Moshraf Jahan Ena - Full-Stack & Game Developer" />
+  <img src="https://raw.githubusercontent.com/MJahanEna/MJahanEna/github_header.png" alt="Moshraf Jahan Ena - Full-Stack & Game Developer" />
 </div>
 
 - **CS undergrad** passionate about full-stack development & digital experiences.
